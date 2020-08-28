@@ -1,0 +1,1287 @@
+当前时间：2019/10/12 星期六 8:48:34
+异常信息：Duplicate entry '201907314744' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 8:48:43
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0.jpg where  ClothNumber=201907314744 and  MeterNumber=0' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 8:48:43
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:14:26
+异常信息：Unkown command !!
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1298
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 9:14:43
+异常信息：Duplicate entry '201907314744' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:14:52
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0.jpg where  ClothNumber=201907314744 and  MeterNumber=0' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:14:52
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:14:55
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1.jpg where  ClothNumber=201907314744 and  MeterNumber=1' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:14:55
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:01
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2.jpg where  ClothNumber=201907314744 and  MeterNumber=2' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:01
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:32
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''3.jpg where  ClothNumber=201907314744 and  MeterNumber=3' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:33
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:36
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''4.jpg where  ClothNumber=201907314744 and  MeterNumber=4' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:36
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:39
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''5.jpg where  ClothNumber=201907314744 and  MeterNumber=5' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:39
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:42
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''6.jpg where  ClothNumber=201907314744 and  MeterNumber=6' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:42
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:45
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''7.jpg where  ClothNumber=201907314744 and  MeterNumber=7' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:45
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''8.jpg where  ClothNumber=201907314744 and  MeterNumber=8' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:49
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:52
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''9.jpg where  ClothNumber=201907314744 and  MeterNumber=9' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:52
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:55
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''10.jpg where  ClothNumber=201907314744 and  MeterNumber=10' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:55
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:58
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''11.jpg where  ClothNumber=201907314744 and  MeterNumber=11' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:16:58
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:17:13
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''12.jpg where  ClothNumber=201907314744 and  MeterNumber=12' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:17:13
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:17:16
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''13.jpg where  ClothNumber=201907314744 and  MeterNumber=13' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:17:17
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:17:20
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''14.jpg where  ClothNumber=201907314744 and  MeterNumber=14' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:17:20
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:17:23
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''15.jpg where  ClothNumber=201907314744 and  MeterNumber=15' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:17:23
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:17:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''16.jpg where  ClothNumber=201907314744 and  MeterNumber=16' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:17:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201907314744' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:18
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:19:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910121911' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5073
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:23:34
+异常信息：Unkown command !!
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1300
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 9:26:18
+异常信息：Unkown command !!
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1300
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 9:26:41
+异常信息：Column count doesn't match value count at row 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:26:41
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:26:41
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:26:45
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:06
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:19
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201910123002' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5075
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:30:54
+异常信息：Unkown command !!
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1300
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 9:31:38
+异常信息：Duplicate entry '张三' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5077
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:38:41
+异常信息：Unkown command !!
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1300
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 9:39:23
+异常信息：Duplicate entry '王五' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5077
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:45:07
+异常信息：调用 SSPI 失败，请参见内部异常。
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.Common.Ssl.StartSSL(Stream& baseStream, Encoding encoding, String connectionString)
+   在 MySql.Data.MySqlClient.NativeDriver.Open()
+   在 MySql.Data.MySqlClient.Driver.Open()
+   在 MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   在 MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   在 MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   在 MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   在 MySql.Data.MySqlClient.MySqlConnection.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.button_Freeze_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 3531
+触发方法：MySql.Data.MySqlClient.MySqlStream StartSSL(System.IO.Stream ByRef, System.Text.Encoding, System.String)
+
+当前时间：2019/10/12 星期六 9:45:28
+异常信息：Unkown command !!
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1300
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 9:50:43
+异常信息：Unkown command !!
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1300
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 9:58:51
+异常信息：Unkown command !!
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1300
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 9:59:16
+异常信息：Column count doesn't match value count at row 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5077
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:59:17
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5077
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:59:17
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5077
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:59:17
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5077
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 9:59:17
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.button_Freeze_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 3559
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 13:37:21
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1297
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 13:37:36
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1316
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 13:38:26
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1297
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 13:38:40
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1316
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 13:41:36
+异常信息：Unkown command !!
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1297
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 13:42:11
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 5077
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/10/12 星期六 13:47:52
+异常信息：Unkown command !!
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1297
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/10/12 星期六 14:05:58
+异常信息：Unkown command !!
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906261\东蒙190731\MultiBoardSyncGrabDemoDlg.cs:行号 1297
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+

@@ -1,0 +1,1543 @@
+﻿相机1异常  from 0  at  2019/11/6 星期三 11:25:09
+相机2异常  from 0  at  2019/11/6 星期三 11:25:21
+正在初始化相机 2019/11/6 星期三 11:25:21
+相机连接成功  from 0  at  2019/11/6 星期三 11:26:17
+相机1通信连接成功 2019/11/6 星期三 11:26:17
+相机2通信连接成功 2019/11/6 星期三 11:26:17
+  from 0  at  2019/11/6 星期三 11:28:18
+L保存成功:121.980  from 1  at  2019/11/6 星期三 11:28:20
+A保存成功:103.847  from 1  at  2019/11/6 星期三 11:28:20
+B保存成功:115.264  from 1  at  2019/11/6 星期三 11:28:20
+L保存成功:119.773  from 1  at  2019/11/6 星期三 11:28:20
+A保存成功:102.421  from 1  at  2019/11/6 星期三 11:28:20
+B保存成功:112.784  from 1  at  2019/11/6 星期三 11:28:20
+L保存成功:122.346  from 1  at  2019/11/6 星期三 11:28:20
+A保存成功:104.593  from 1  at  2019/11/6 星期三 11:28:20
+B保存成功:114.372  from 1  at  2019/11/6 星期三 11:28:20
+L保存成功:119.141  from 1  at  2019/11/6 星期三 11:28:21
+A保存成功:103.369  from 1  at  2019/11/6 星期三 11:28:21
+B保存成功:113.115  from 1  at  2019/11/6 星期三 11:28:21
+L保存成功:120.170  from 1  at  2019/11/6 星期三 11:28:21
+A保存成功:105.003  from 1  at  2019/11/6 星期三 11:28:21
+B保存成功:114.839  from 1  at  2019/11/6 星期三 11:28:21
+L保存成功:118.035  from 1  at  2019/11/6 星期三 11:28:21
+A保存成功:104.042  from 1  at  2019/11/6 星期三 11:28:21
+B保存成功:113.302  from 1  at  2019/11/6 星期三 11:28:21
+MySql.Data.MySqlClient.MySqlException (0x80004005): Column count doesn't match value count at row 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:21
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:21
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:21
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 11:28:23
+  from 1  at  2019/11/6 星期三 11:28:26
+0米  from 2  at  2019/11/6 星期三 11:28:32
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:33
+X0.82;Y:2.15  from 2  at  2019/11/6 星期三 11:28:33
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2)' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:33
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:33
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:33
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber= and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:33
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:33
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:33
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:34
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:35
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:35
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:35
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:35
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:35
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:35
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:35
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:35
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:35
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:35
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:36
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:36
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:36
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:36
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:36
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:36
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:36
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:36
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:36
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:36
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:36
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',2)' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:37
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:38
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:38
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:38
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:38
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:38
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:38
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:38
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:38
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 11:28:38
+  from 2  at  2019/11/6 星期三 11:28:45
+0米  from 3  at  2019/11/6 星期三 11:28:46
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:47
+X0.03;Y:3.94  from 3  at  2019/11/6 星期三 11:28:48
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',3)' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:48
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:48
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:48
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber= and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:48
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:48
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:48
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:48
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:49
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:50
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',3)' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 11:28:52

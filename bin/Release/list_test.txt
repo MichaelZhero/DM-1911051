@@ -1,0 +1,591 @@
+﻿MySql.Data.MySqlClient.MySqlException (0x80004005): Incorrect integer value: 'ss' for column 'ClothClassNumber' at row 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 0  at  2019/11/6 星期三 14:13:50
+开始检测  from 0  at  2019/11/6 星期三 14:13:55
+2019/11/6 星期三 14:13:59 2号回调: 1
+buffer转化耗时：0  from 0  at  2019/11/6 星期三 14:13:59
+2019/11/6 星期三 14:13:59 1号回调: 1
+转换为hobject61  from 0  at  2019/11/6 星期三 14:13:59
+合并耗时：0.0947503711859099  from 0  at  2019/11/6 星期三 14:13:59
+色差耗时0.97341398617391  from 0  at  2019/11/6 星期三 14:14:00
+L保存成功:48.519  from 0  at  2019/11/6 星期三 14:14:01
+A保存成功:29.286  from 0  at  2019/11/6 星期三 14:14:01
+B保存成功:35.163  from 0  at  2019/11/6 星期三 14:14:01
+L保存成功:66.062  from 0  at  2019/11/6 星期三 14:14:01
+A保存成功:39.867  from 0  at  2019/11/6 星期三 14:14:01
+B保存成功:47.924  from 0  at  2019/11/6 星期三 14:14:01
+L保存成功:76.498  from 0  at  2019/11/6 星期三 14:14:01
+A保存成功:44.862  from 0  at  2019/11/6 星期三 14:14:01
+B保存成功:53.930  from 0  at  2019/11/6 星期三 14:14:01
+L保存成功:71.606  from 0  at  2019/11/6 星期三 14:14:01
+A保存成功:43.034  from 0  at  2019/11/6 星期三 14:14:01
+B保存成功:50.903  from 0  at  2019/11/6 星期三 14:14:01
+L保存成功:51.738  from 0  at  2019/11/6 星期三 14:14:01
+A保存成功:31.842  from 0  at  2019/11/6 星期三 14:14:01
+B保存成功:37.233  from 0  at  2019/11/6 星期三 14:14:01
+L保存成功:65.993  from 0  at  2019/11/6 星期三 14:14:01
+A保存成功:38.386  from 0  at  2019/11/6 星期三 14:14:01
+B保存成功:45.344  from 0  at  2019/11/6 星期三 14:14:01
+buffer转化耗时：61  from 0  at  2019/11/6 星期三 14:14:02
+2019/11/6 星期三 14:14:02 1号回调: 1
+转换为hobject56  from 0  at  2019/11/6 星期三 14:14:02
+2019/11/6 星期三 14:14:02 2号回调: 1
+合并耗时：0.0953050372372672  from 0  at  2019/11/6 星期三 14:14:02
+缺陷个数0  from 0  at  2019/11/6 星期三 14:14:03
+缺陷耗时1.05849122522159  from 0  at  2019/11/6 星期三 14:14:03
+写入0-16耗时1.06755012427311  from 0  at  2019/11/6 星期三 14:14:03
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0.jpg where  ClothNumber=20191106002 and  MeterNumber=0' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 0  at  2019/11/6 星期三 14:14:03
+写入17-48耗时1.13670135499797  from 0  at  2019/11/6 星期三 14:14:03
+写入数据库总耗时1.20789060943753  from 0  at  2019/11/6 星期三 14:14:03
+开启线程耗时1.2103935330706  from 0  at  2019/11/6 星期三 14:14:03
+保存图像耗时1.21251107184889  from 0  at  2019/11/6 星期三 14:14:03
+色差曲线耗时1.22418510220177  from 0  at  2019/11/6 星期三 14:14:03
+曲线2显示耗时1.22908871581512  from 1  at  2019/11/6 星期三 14:14:03
+2019/11/6 星期三 14:14:03 程序处理 : 1
+显示帧率耗时1.23542027589792  from 1  at  2019/11/6 星期三 14:14:03
+总耗时1.26381989810398  from 1  at  2019/11/6 星期三 14:14:03
+buffer转化耗时：56  from 1  at  2019/11/6 星期三 14:14:05
+2019/11/6 星期三 14:14:05 1号回调: 2
+转换为hobject62  from 1  at  2019/11/6 星期三 14:14:05
+2019/11/6 星期三 14:14:05 2号回调: 2
+合并耗时：0.0952393749730618  from 1  at  2019/11/6 星期三 14:14:05
+缺陷个数0  from 1  at  2019/11/6 星期三 14:14:06
+缺陷耗时1.09096883425173  from 1  at  2019/11/6 星期三 14:14:06
+写入0-16耗时1.09920460001649  from 1  at  2019/11/6 星期三 14:14:06
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1.jpg where  ClothNumber=20191106002 and  MeterNumber=1' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 14:14:06
+写入17-48耗时1.16590914946937  from 1  at  2019/11/6 星期三 14:14:06
+写入数据库总耗时1.23062665350517  from 1  at  2019/11/6 星期三 14:14:07
+开启线程耗时1.23302346470155  from 1  at  2019/11/6 星期三 14:14:07
+保存图像耗时1.23506841481594  from 1  at  2019/11/6 星期三 14:14:07
+色差曲线耗时1.24475927853564  from 1  at  2019/11/6 星期三 14:14:07
+曲线2显示耗时1.2536264548562  from 2  at  2019/11/6 星期三 14:14:07
+2019/11/6 星期三 14:14:07 程序处理 : 2
+显示帧率耗时1.25945349601716  from 2  at  2019/11/6 星期三 14:14:07
+总耗时1.27783311201256  from 2  at  2019/11/6 星期三 14:14:07
+2019/11/6 星期三 14:14:08 2号回调: 3
+buffer转化耗时：62  from 2  at  2019/11/6 星期三 14:14:08
+2019/11/6 星期三 14:14:08 1号回调: 3
+转换为hobject68  from 2  at  2019/11/6 星期三 14:14:08
+合并耗时：0.100228321824943  from 2  at  2019/11/6 星期三 14:14:09
+缺陷个数0  from 2  at  2019/11/6 星期三 14:14:10
+缺陷耗时1.02358078772068  from 2  at  2019/11/6 星期三 14:14:10
+写入0-16耗时1.03038999229557  from 2  at  2019/11/6 星期三 14:14:10
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2.jpg where  ClothNumber=20191106002 and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 14:14:10
+写入17-48耗时1.100721204396  from 2  at  2019/11/6 星期三 14:14:10
+写入数据库总耗时1.17378917536826  from 2  at  2019/11/6 星期三 14:14:10
+开启线程耗时1.17602917288605  from 2  at  2019/11/6 星期三 14:14:10
+保存图像耗时1.17852794067949  from 2  at  2019/11/6 星期三 14:14:10
+色差曲线耗时1.21697638291789  from 2  at  2019/11/6 星期三 14:14:10
+曲线2显示耗时1.22885848230453  from 3  at  2019/11/6 星期三 14:14:10
+2019/11/6 星期三 14:14:10 程序处理 : 3
+显示帧率耗时1.23489082193919  from 3  at  2019/11/6 星期三 14:14:10
+总耗时1.23700088020723  from 3  at  2019/11/6 星期三 14:14:10
+2019/11/6 星期三 14:14:12 2号回调: 4
+buffer转化耗时：68  from 3  at  2019/11/6 星期三 14:14:12
+2019/11/6 星期三 14:14:12 1号回调: 4
+转换为hobject68  from 3  at  2019/11/6 星期三 14:14:12
+合并耗时：0.0958214695656352  from 3  at  2019/11/6 星期三 14:14:12
+缺陷个数0  from 3  at  2019/11/6 星期三 14:14:13
+缺陷耗时1.04895080289498  from 3  at  2019/11/6 星期三 14:14:13
+写入0-16耗时1.0553535663621  from 3  at  2019/11/6 星期三 14:14:13
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''3.jpg where  ClothNumber=20191106002 and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 14:14:13
+写入17-48耗时1.12547393886871  from 3  at  2019/11/6 星期三 14:14:13
+写入数据库总耗时1.19305149168395  from 3  at  2019/11/6 星期三 14:14:13
+开启线程耗时1.19526045893235  from 3  at  2019/11/6 星期三 14:14:13
+保存图像耗时1.19730097615138  from 3  at  2019/11/6 星期三 14:14:13
+色差曲线耗时1.20691371008706  from 3  at  2019/11/6 星期三 14:14:13
+曲线2显示耗时1.2119436612229  from 4  at  2019/11/6 星期三 14:14:13
+2019/11/6 星期三 14:14:13 程序处理 : 4
+显示帧率耗时1.21681624456778  from 4  at  2019/11/6 星期三 14:14:13
+总耗时1.24179976666346  from 4  at  2019/11/6 星期三 14:14:13
+2019/11/6 星期三 14:14:15 2号回调: 5
+buffer转化耗时：68  from 4  at  2019/11/6 星期三 14:14:15
+2019/11/6 星期三 14:14:15 1号回调: 5
+转换为hobject59  from 4  at  2019/11/6 星期三 14:14:15
+合并耗时：0.0903512764934931  from 4  at  2019/11/6 星期三 14:14:15
+色差耗时0.906595566716533  from 4  at  2019/11/6 星期三 14:14:16
+L保存成功:67.898  from 4  at  2019/11/6 星期三 14:14:16
+A保存成功:40.942  from 4  at  2019/11/6 星期三 14:14:16
+B保存成功:49.237  from 4  at  2019/11/6 星期三 14:14:16
+L保存成功:87.665  from 4  at  2019/11/6 星期三 14:14:16
+A保存成功:52.769  from 4  at  2019/11/6 星期三 14:14:16
+B保存成功:63.572  from 4  at  2019/11/6 星期三 14:14:16
+L保存成功:100.366  from 4  at  2019/11/6 星期三 14:14:16
+A保存成功:58.540  from 4  at  2019/11/6 星期三 14:14:16
+B保存成功:70.635  from 4  at  2019/11/6 星期三 14:14:16
+L保存成功:90.252  from 4  at  2019/11/6 星期三 14:14:16
+A保存成功:53.940  from 4  at  2019/11/6 星期三 14:14:16
+B保存成功:63.894  from 4  at  2019/11/6 星期三 14:14:16
+L保存成功:70.742  from 4  at  2019/11/6 星期三 14:14:16
+A保存成功:43.297  from 4  at  2019/11/6 星期三 14:14:16
+B保存成功:50.698  from 4  at  2019/11/6 星期三 14:14:16
+L保存成功:87.638  from 4  at  2019/11/6 星期三 14:14:16
+A保存成功:51.052  from 4  at  2019/11/6 星期三 14:14:16
+B保存成功:60.469  from 4  at  2019/11/6 星期三 14:14:16
+2019/11/6 星期三 14:14:18 2号回调: 1
+buffer转化耗时：59  from 0  at  2019/11/6 星期三 14:14:18
+2019/11/6 星期三 14:14:18 1号回调: 1
+转换为hobject57  from 0  at  2019/11/6 星期三 14:14:18
+合并耗时：0.0946509080922624  from 0  at  2019/11/6 星期三 14:14:18
+缺陷个数1  from 0  at  2019/11/6 星期三 14:14:19
+X0.66;Y:0.23  from 0  at  2019/11/6 星期三 14:14:19
+缺陷耗时1.06906284986962  from 0  at  2019/11/6 星期三 14:14:19
+写入0-16耗时1.07852043246294  from 0  at  2019/11/6 星期三 14:14:19
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0.jpg where  ClothNumber=20191106002 and  MeterNumber=0' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 0  at  2019/11/6 星期三 14:14:19
+写入17-48耗时1.14666428767941  from 0  at  2019/11/6 星期三 14:14:19
+写入数据库总耗时1.20983110945144  from 0  at  2019/11/6 星期三 14:14:19
+开启线程耗时1.21225147040605  from 0  at  2019/11/6 星期三 14:14:19
+保存图像耗时1.21422216952033  from 0  at  2019/11/6 星期三 14:14:19
+色差曲线耗时1.24071647782057  from 0  at  2019/11/6 星期三 14:14:19
+曲线2显示耗时1.24566386627794  from 1  at  2019/11/6 星期三 14:14:19
+2019/11/6 星期三 14:14:19 程序处理 : 1
+显示帧率耗时1.25197353893873  from 1  at  2019/11/6 星期三 14:14:19
+总耗时1.26001591963632  from 1  at  2019/11/6 星期三 14:14:19
+2019/11/6 星期三 14:14:21 2号回调: 2
+buffer转化耗时：57  from 1  at  2019/11/6 星期三 14:14:21
+2019/11/6 星期三 14:14:21 1号回调: 2
+转换为hobject56  from 1  at  2019/11/6 星期三 14:14:21
+合并耗时：0.0942987699545483  from 1  at  2019/11/6 星期三 14:14:21
+缺陷个数0  from 1  at  2019/11/6 星期三 14:14:22
+缺陷耗时1.04175261173714  from 1  at  2019/11/6 星期三 14:14:22
+写入0-16耗时1.05283678992964  from 1  at  2019/11/6 星期三 14:14:22
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1.jpg where  ClothNumber=20191106002 and  MeterNumber=1' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 1  at  2019/11/6 星期三 14:14:22
+写入17-48耗时1.12110836794909  from 1  at  2019/11/6 星期三 14:14:22
+写入数据库总耗时1.18941790263671  from 1  at  2019/11/6 星期三 14:14:23
+开启线程耗时1.19169530270938  from 1  at  2019/11/6 星期三 14:14:23
+保存图像耗时1.19381893672016  from 1  at  2019/11/6 星期三 14:14:23
+色差曲线耗时1.20556721807225  from 1  at  2019/11/6 星期三 14:14:23
+曲线2显示耗时1.22898454277038  from 2  at  2019/11/6 星期三 14:14:23
+2019/11/6 星期三 14:14:23 程序处理 : 2
+显示帧率耗时1.23447191331252  from 2  at  2019/11/6 星期三 14:14:23
+总耗时1.23877431547044  from 2  at  2019/11/6 星期三 14:14:23
+buffer转化耗时：56  from 2  at  2019/11/6 星期三 14:14:24
+2019/11/6 星期三 14:14:24 1号回调: 3
+转换为hobject58  from 2  at  2019/11/6 星期三 14:14:24
+2019/11/6 星期三 14:14:24 2号回调: 3
+合并耗时：0.0971333295838122  from 2  at  2019/11/6 星期三 14:14:25
+缺陷个数0  from 2  at  2019/11/6 星期三 14:14:26
+缺陷耗时1.08784308879785  from 2  at  2019/11/6 星期三 14:14:26
+写入0-16耗时1.09703691410687  from 2  at  2019/11/6 星期三 14:14:26
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2.jpg where  ClothNumber=20191106002 and  MeterNumber=2' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 2  at  2019/11/6 星期三 14:14:26
+写入17-48耗时1.1759164111063  from 2  at  2019/11/6 星期三 14:14:26
+写入数据库总耗时1.24268689988003  from 2  at  2019/11/6 星期三 14:14:26
+开启线程耗时1.24481690617722  from 2  at  2019/11/6 星期三 14:14:26
+保存图像耗时1.24682916368783  from 2  at  2019/11/6 星期三 14:14:26
+色差曲线耗时1.26027191935282  from 2  at  2019/11/6 星期三 14:14:26
+曲线2显示耗时1.28792570688802  from 3  at  2019/11/6 星期三 14:14:26
+2019/11/6 星期三 14:14:26 程序处理 : 3
+显示帧率耗时1.29230485355038  from 3  at  2019/11/6 星期三 14:14:26
+总耗时1.29590768938397  from 3  at  2019/11/6 星期三 14:14:26
+2019/11/6 星期三 14:14:28 2号回调: 4
+buffer转化耗时：58  from 3  at  2019/11/6 星期三 14:14:28
+2019/11/6 星期三 14:14:28 1号回调: 4
+转换为hobject59  from 3  at  2019/11/6 星期三 14:14:28
+合并耗时：0.0935379742613804  from 3  at  2019/11/6 星期三 14:14:28
+缺陷个数0  from 3  at  2019/11/6 星期三 14:14:29
+缺陷耗时1.07284604914003  from 3  at  2019/11/6 星期三 14:14:29
+写入0-16耗时1.07889805974901  from 3  at  2019/11/6 星期三 14:14:29
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''3.jpg where  ClothNumber=20191106002 and  MeterNumber=3' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 3  at  2019/11/6 星期三 14:14:29
+写入17-48耗时1.14744253789922  from 3  at  2019/11/6 星期三 14:14:29
+写入数据库总耗时1.21661953482817  from 3  at  2019/11/6 星期三 14:14:29
+开启线程耗时1.21880606054401  from 3  at  2019/11/6 星期三 14:14:29
+保存图像耗时1.2212178327627  from 3  at  2019/11/6 星期三 14:14:29
+色差曲线耗时1.25116342728234  from 3  at  2019/11/6 星期三 14:14:29
+曲线2显示耗时1.2625166268208  from 4  at  2019/11/6 星期三 14:14:29
+2019/11/6 星期三 14:14:29 程序处理 : 4
+显示帧率耗时1.26848302713552  from 4  at  2019/11/6 星期三 14:14:29
+总耗时1.27105382948139  from 4  at  2019/11/6 星期三 14:14:29
+buffer转化耗时：59  from 4  at  2019/11/6 星期三 14:14:31
+2019/11/6 星期三 14:14:31 1号回调: 5
+转换为hobject62  from 4  at  2019/11/6 星期三 14:14:31
+2019/11/6 星期三 14:14:31 2号回调: 5
+合并耗时：0.103688473834154  from 4  at  2019/11/6 星期三 14:14:31
+缺陷个数0  from 4  at  2019/11/6 星期三 14:14:32
+缺陷耗时1.05104091313206  from 4  at  2019/11/6 星期三 14:14:32
+写入0-16耗时1.05743204024839  from 4  at  2019/11/6 星期三 14:14:32
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''4.jpg where  ClothNumber=20191106002 and  MeterNumber=4' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 4  at  2019/11/6 星期三 14:14:32
+写入17-48耗时1.12719085471508  from 4  at  2019/11/6 星期三 14:14:32
+写入数据库总耗时1.19156868813116  from 4  at  2019/11/6 星期三 14:14:32
+开启线程耗时1.19387434791406  from 4  at  2019/11/6 星期三 14:14:32
+保存图像耗时1.19666873442748  from 4  at  2019/11/6 星期三 14:14:32
+色差曲线耗时1.23369310898033  from 4  at  2019/11/6 星期三 14:14:32
+曲线2显示耗时1.2383844977212  from 5  at  2019/11/6 星期三 14:14:32
+2019/11/6 星期三 14:14:32 程序处理 : 5
+显示帧率耗时1.25482139725409  from 5  at  2019/11/6 星期三 14:14:32
+总耗时1.25741602641301  from 5  at  2019/11/6 星期三 14:14:32
+2019/11/6 星期三 14:14:34 2号回调: 6
+buffer转化耗时：62  from 5  at  2019/11/6 星期三 14:14:34
+2019/11/6 星期三 14:14:34 1号回调: 6
+转换为hobject59  from 5  at  2019/11/6 星期三 14:14:34
+合并耗时：0.10026350793305  from 5  at  2019/11/6 星期三 14:14:34
+缺陷个数0  from 5  at  2019/11/6 星期三 14:14:35
+缺陷耗时1.06091823551924  from 5  at  2019/11/6 星期三 14:14:35
+写入0-16耗时1.06808179468044  from 5  at  2019/11/6 星期三 14:14:35
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''5.jpg where  ClothNumber=20191106002 and  MeterNumber=5' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 5  at  2019/11/6 星期三 14:14:35
+写入17-48耗时1.1443522556101  from 5  at  2019/11/6 星期三 14:14:35
+写入数据库总耗时1.21172173939067  from 5  at  2019/11/6 星期三 14:14:35
+开启线程耗时1.21413129516259  from 5  at  2019/11/6 星期三 14:14:35
+保存图像耗时1.2169467379299  from 5  at  2019/11/6 星期三 14:14:35
+色差曲线耗时1.25629284151091  from 5  at  2019/11/6 星期三 14:14:35
+曲线2显示耗时1.26032816171482  from 6  at  2019/11/6 星期三 14:14:35
+2019/11/6 星期三 14:14:35 程序处理 : 6
+显示帧率耗时1.27444776511493  from 6  at  2019/11/6 星期三 14:14:35
+总耗时1.27640239498305  from 6  at  2019/11/6 星期三 14:14:35
+2019/11/6 星期三 14:14:37 2号回调: 7
+buffer转化耗时：59  from 6  at  2019/11/6 星期三 14:14:37
+2019/11/6 星期三 14:14:37 1号回调: 7
+转换为hobject62  from 6  at  2019/11/6 星期三 14:14:37
+合并耗时：0.0918734219931139  from 6  at  2019/11/6 星期三 14:14:37
+缺陷个数0  from 6  at  2019/11/6 星期三 14:14:38
+缺陷耗时1.02298871911262  from 6  at  2019/11/6 星期三 14:14:38
+写入0-16耗时1.03039470224667  from 6  at  2019/11/6 星期三 14:14:38
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''6.jpg where  ClothNumber=20191106002 and  MeterNumber=6' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 6  at  2019/11/6 星期三 14:14:38
+写入17-48耗时1.09926111943423  from 6  at  2019/11/6 星期三 14:14:38
+写入数据库总耗时1.16869827191931  from 6  at  2019/11/6 星期三 14:14:39
+开启线程耗时1.17082633882455  from 6  at  2019/11/6 星期三 14:14:39
+保存图像耗时1.17289760925632  from 6  at  2019/11/6 星期三 14:14:39
+色差曲线耗时1.18307526031549  from 6  at  2019/11/6 星期三 14:14:39
+曲线2显示耗时1.18754528133559  from 7  at  2019/11/6 星期三 14:14:39
+2019/11/6 星期三 14:14:39 程序处理 : 7
+显示帧率耗时1.19303985533315  from 7  at  2019/11/6 星期三 14:14:39
+总耗时1.19441405294401  from 7  at  2019/11/6 星期三 14:14:39
+buffer转化耗时：62  from 7  at  2019/11/6 星期三 14:14:40
+2019/11/6 星期三 14:14:40 1号回调: 8
+转换为hobject61  from 7  at  2019/11/6 星期三 14:14:40
+2019/11/6 星期三 14:14:40 2号回调: 8
+合并耗时：0.0951784226599557  from 7  at  2019/11/6 星期三 14:14:41
+缺陷个数0  from 7  at  2019/11/6 星期三 14:14:42
+缺陷耗时1.0551022765967  from 7  at  2019/11/6 星期三 14:14:42
+写入0-16耗时1.06150947295919  from 7  at  2019/11/6 星期三 14:14:42
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''7.jpg where  ClothNumber=20191106002 and  MeterNumber=7' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 7  at  2019/11/6 星期三 14:14:42
+写入17-48耗时1.13816836635851  from 7  at  2019/11/6 星期三 14:14:42
+写入数据库总耗时1.20073674723517  from 7  at  2019/11/6 星期三 14:14:42
+开启线程耗时1.2029989092307  from 7  at  2019/11/6 星期三 14:14:42
+保存图像耗时1.20504995457668  from 7  at  2019/11/6 星期三 14:14:42
+色差曲线耗时1.3543196765977  from 7  at  2019/11/6 星期三 14:14:42
+曲线2显示耗时1.3589902861404  from 8  at  2019/11/6 星期三 14:14:42
+2019/11/6 星期三 14:14:42 程序处理 : 8
+显示帧率耗时1.37044793578025  from 8  at  2019/11/6 星期三 14:14:42
+总耗时1.37603560058415  from 8  at  2019/11/6 星期三 14:14:42
+2019/11/6 星期三 14:14:44 2号回调: 9
+buffer转化耗时：61  from 8  at  2019/11/6 星期三 14:14:44
+2019/11/6 星期三 14:14:44 1号回调: 9
+转换为hobject56  from 8  at  2019/11/6 星期三 14:14:44
+合并耗时：0.0938887271186104  from 8  at  2019/11/6 星期三 14:14:44
+缺陷个数0  from 8  at  2019/11/6 星期三 14:14:45
+缺陷耗时1.03934776591723  from 8  at  2019/11/6 星期三 14:14:45
+写入0-16耗时1.04585691887678  from 8  at  2019/11/6 星期三 14:14:45
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''8.jpg where  ClothNumber=20191106002 and  MeterNumber=8' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 8  at  2019/11/6 星期三 14:14:45
+写入17-48耗时1.11695751540628  from 8  at  2019/11/6 星期三 14:14:45
+写入数据库总耗时1.1837185842769  from 8  at  2019/11/6 星期三 14:14:45
+开启线程耗时1.18621596679077  from 8  at  2019/11/6 星期三 14:14:45
+保存图像耗时1.18827560087175  from 8  at  2019/11/6 星期三 14:14:45
+色差曲线耗时1.24027762116384  from 8  at  2019/11/6 星期三 14:14:45
+曲线2显示耗时1.24539900076979  from 9  at  2019/11/6 星期三 14:14:45
+2019/11/6 星期三 14:14:45 程序处理 : 9
+显示帧率耗时1.25139449196104  from 9  at  2019/11/6 星期三 14:14:45
+总耗时1.25600913619746  from 9  at  2019/11/6 星期三 14:14:45
+2019/11/6 星期三 14:14:47 2号回调: 10
+buffer转化耗时：56  from 9  at  2019/11/6 星期三 14:14:47
+2019/11/6 星期三 14:14:47 1号回调: 10
+转换为hobject57  from 9  at  2019/11/6 星期三 14:14:47
+合并耗时：0.0982562374301779  from 9  at  2019/11/6 星期三 14:14:47
+缺陷个数0  from 9  at  2019/11/6 星期三 14:14:48
+缺陷耗时1.04691665796236  from 9  at  2019/11/6 星期三 14:14:48
+写入0-16耗时1.05333327422795  from 9  at  2019/11/6 星期三 14:14:48
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''9.jpg where  ClothNumber=20191106002 and  MeterNumber=9' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 9  at  2019/11/6 星期三 14:14:48
+写入17-48耗时1.12153558825503  from 9  at  2019/11/6 星期三 14:14:48
+写入数据库总耗时1.19297862596341  from 9  at  2019/11/6 星期三 14:14:48
+开启线程耗时1.1953006320482  from 9  at  2019/11/6 星期三 14:14:48
+保存图像耗时1.19793349493102  from 9  at  2019/11/6 星期三 14:14:48
+色差曲线耗时1.25006074452176  from 9  at  2019/11/6 星期三 14:14:48
+曲线2显示耗时1.25668792332453  from 10  at  2019/11/6 星期三 14:14:48
+2019/11/6 星期三 14:14:48 程序处理 : 10
+显示帧率耗时1.26198551052676  from 10  at  2019/11/6 星期三 14:14:48
+总耗时1.26935270582544  from 10  at  2019/11/6 星期三 14:14:48
+buffer转化耗时：57  from 10  at  2019/11/6 星期三 14:14:50
+2019/11/6 星期三 14:14:50 1号回调: 11
+转换为hobject63  from 10  at  2019/11/6 星期三 14:14:50
+2019/11/6 星期三 14:14:50 2号回调: 11
+合并耗时：0.0961187506218266  from 10  at  2019/11/6 星期三 14:14:50
+缺陷个数1  from 10  at  2019/11/6 星期三 14:14:51
+X0.66;Y:10.97  from 10  at  2019/11/6 星期三 14:14:51
+缺陷耗时1.04859783358916  from 10  at  2019/11/6 星期三 14:14:51
+写入0-16耗时1.05514134148871  from 10  at  2019/11/6 星期三 14:14:51
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''10.jpg where  ClothNumber=20191106002 and  MeterNumber=10' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 10  at  2019/11/6 星期三 14:14:51
+写入17-48耗时1.13033350058322  from 10  at  2019/11/6 星期三 14:14:51
+写入数据库总耗时1.22712660543584  from 10  at  2019/11/6 星期三 14:14:51
+开启线程耗时1.22994287937127  from 10  at  2019/11/6 星期三 14:14:51
+保存图像耗时1.23247378565702  from 10  at  2019/11/6 星期三 14:14:51
+色差曲线耗时1.28744473772349  from 10  at  2019/11/6 星期三 14:14:51
+曲线2显示耗时1.29118222275974  from 11  at  2019/11/6 星期三 14:14:51
+2019/11/6 星期三 14:14:51 程序处理 : 11
+显示帧率耗时1.29992361566929  from 11  at  2019/11/6 星期三 14:14:51
+总耗时1.30306847798511  from 11  at  2019/11/6 星期三 14:14:51
+2019/11/6 星期三 14:14:53 2号回调: 12
+buffer转化耗时：63  from 11  at  2019/11/6 星期三 14:14:53
+2019/11/6 星期三 14:14:53 1号回调: 12
+转换为hobject54  from 11  at  2019/11/6 星期三 14:14:53
+合并耗时：0.0901911381424725  from 11  at  2019/11/6 星期三 14:14:53
+缺陷个数0  from 11  at  2019/11/6 星期三 14:14:54
+缺陷耗时1.05377988845157  from 11  at  2019/11/6 星期三 14:14:54
+写入0-16耗时1.06009343989626  from 11  at  2019/11/6 星期三 14:14:54
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''11.jpg where  ClothNumber=20191106002 and  MeterNumber=11' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 11  at  2019/11/6 星期三 14:14:54
+写入17-48耗时1.13280400866734  from 11  at  2019/11/6 星期三 14:14:54
+写入数据库总耗时1.19609772207332  from 11  at  2019/11/6 星期三 14:14:55
+开启线程耗时1.19844189263586  from 11  at  2019/11/6 星期三 14:14:55
+保存图像耗时1.20057965650085  from 11  at  2019/11/6 星期三 14:14:55
+色差曲线耗时1.2575797664922  from 11  at  2019/11/6 星期三 14:14:55
+曲线2显示耗时1.26225065309063  from 12  at  2019/11/6 星期三 14:14:55
+2019/11/6 星期三 14:14:55 程序处理 : 12
+显示帧率耗时1.26720164327435  from 12  at  2019/11/6 星期三 14:14:55
+总耗时1.27146636582074  from 12  at  2019/11/6 星期三 14:14:55
+buffer转化耗时：54  from 12  at  2019/11/6 星期三 14:14:56
+2019/11/6 星期三 14:14:56 1号回调: 13
+转换为hobject58  from 12  at  2019/11/6 星期三 14:14:56
+2019/11/6 星期三 14:14:56 2号回调: 13
+合并耗时：0.0963564646444866  from 12  at  2019/11/6 星期三 14:14:57
+缺陷个数1  from 12  at  2019/11/6 星期三 14:14:58
+X0.65;Y:12.98  from 12  at  2019/11/6 星期三 14:14:58
+缺陷耗时1.04668891795518  from 12  at  2019/11/6 星期三 14:14:58
+写入0-16耗时1.05339782826923  from 12  at  2019/11/6 星期三 14:14:58
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''12.jpg where  ClothNumber=20191106002 and  MeterNumber=12' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 12  at  2019/11/6 星期三 14:14:58
+写入17-48耗时1.12121032454615  from 12  at  2019/11/6 星期三 14:14:58
+写入数据库总耗时1.18503515424709  from 12  at  2019/11/6 星期三 14:14:58
+开启线程耗时1.18707040740264  from 12  at  2019/11/6 星期三 14:14:58
+保存图像耗时1.18905523637204  from 12  at  2019/11/6 星期三 14:14:58
+色差曲线耗时1.23950131033689  from 12  at  2019/11/6 星期三 14:14:58
+曲线2显示耗时1.24327425853608  from 13  at  2019/11/6 星期三 14:14:58
+2019/11/6 星期三 14:14:58 程序处理 : 13
+显示帧率耗时1.2482080712507  from 13  at  2019/11/6 星期三 14:14:58
+总耗时1.25550738783659  from 13  at  2019/11/6 星期三 14:14:58
+2019/11/6 星期三 14:15:00 2号回调: 14
+buffer转化耗时：58  from 13  at  2019/11/6 星期三 14:15:00
+2019/11/6 星期三 14:15:00 1号回调: 14
+转换为hobject59  from 13  at  2019/11/6 星期三 14:15:00
+合并耗时：0.0981224193965318  from 13  at  2019/11/6 星期三 14:15:00
+缺陷个数1  from 13  at  2019/11/6 星期三 14:15:01
+X0.66;Y:13.98  from 13  at  2019/11/6 星期三 14:15:01
+缺陷耗时1.1216727309602  from 13  at  2019/11/6 星期三 14:15:01
+写入0-16耗时1.12800512221111  from 13  at  2019/11/6 星期三 14:15:01
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''13.jpg where  ClothNumber=20191106002 and  MeterNumber=13' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 13  at  2019/11/6 星期三 14:15:01
+写入17-48耗时1.20131357776518  from 13  at  2019/11/6 星期三 14:15:01
+写入数据库总耗时1.26812728727054  from 13  at  2019/11/6 星期三 14:15:01
+开启线程耗时1.27088898117927  from 13  at  2019/11/6 星期三 14:15:01
+保存图像耗时1.27304835540963  from 13  at  2019/11/6 星期三 14:15:01
+色差曲线耗时1.32804368840152  from 13  at  2019/11/6 星期三 14:15:01
+曲线2显示耗时1.33332243579844  from 14  at  2019/11/6 星期三 14:15:01
+2019/11/6 星期三 14:15:01 程序处理 : 14
+显示帧率耗时1.33847318333756  from 14  at  2019/11/6 星期三 14:15:01
+总耗时1.3415230154551  from 14  at  2019/11/6 星期三 14:15:01
+buffer转化耗时：59  from 14  at  2019/11/6 星期三 14:15:03
+2019/11/6 星期三 14:15:03 1号回调: 15
+转换为hobject58  from 14  at  2019/11/6 星期三 14:15:03
+2019/11/6 星期三 14:15:03 2号回调: 15
+合并耗时：0.0909652325235584  from 14  at  2019/11/6 星期三 14:15:03
+缺陷个数0  from 14  at  2019/11/6 星期三 14:15:04
+缺陷耗时1.02781115532616  from 14  at  2019/11/6 星期三 14:15:04
+写入0-16耗时1.03586849704607  from 14  at  2019/11/6 星期三 14:15:04
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''14.jpg where  ClothNumber=20191106002 and  MeterNumber=14' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 14  at  2019/11/6 星期三 14:15:04
+写入17-48耗时1.10607115517632  from 14  at  2019/11/6 星期三 14:15:04
+写入数据库总耗时1.17467049040806  from 14  at  2019/11/6 星期三 14:15:04
+开启线程耗时1.17682016767958  from 14  at  2019/11/6 星期三 14:15:04
+保存图像耗时1.17893742940214  from 14  at  2019/11/6 星期三 14:15:04
+色差曲线耗时1.23471212083859  from 14  at  2019/11/6 星期三 14:15:04
+曲线2显示耗时1.24088742135427  from 15  at  2019/11/6 星期三 14:15:04
+2019/11/6 星期三 14:15:04 程序处理 : 15
+显示帧率耗时1.25278171120226  from 15  at  2019/11/6 星期三 14:15:04
+总耗时1.25559327518658  from 15  at  2019/11/6 星期三 14:15:04
+buffer转化耗时：58  from 15  at  2019/11/6 星期三 14:15:06
+2019/11/6 星期三 14:15:06 1号回调: 16
+转换为hobject56  from 15  at  2019/11/6 星期三 14:15:06
+2019/11/6 星期三 14:15:06 2号回调: 16
+合并耗时：0.0972025935761849  from 15  at  2019/11/6 星期三 14:15:06
+缺陷个数0  from 15  at  2019/11/6 星期三 14:15:07
+缺陷耗时1.09439657071198  from 15  at  2019/11/6 星期三 14:15:07
+写入0-16耗时1.10118471903297  from 15  at  2019/11/6 星期三 14:15:07
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''15.jpg where  ClothNumber=20191106002 and  MeterNumber=15' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 15  at  2019/11/6 星期三 14:15:07
+写入17-48耗时1.17332455250562  from 15  at  2019/11/6 星期三 14:15:07
+写入数据库总耗时1.23712777184119  from 15  at  2019/11/6 星期三 14:15:07
+开启线程耗时1.23924669589906  from 15  at  2019/11/6 星期三 14:15:07
+保存图像耗时1.24133846847326  from 15  at  2019/11/6 星期三 14:15:07
+色差曲线耗时1.3391378406086  from 15  at  2019/11/6 星期三 14:15:07
+曲线2显示耗时1.3462459885759  from 16  at  2019/11/6 星期三 14:15:07
+2019/11/6 星期三 14:15:07 程序处理 : 16
+显示帧率耗时1.35222457935288  from 16  at  2019/11/6 星期三 14:15:07
+总耗时1.354660732497  from 16  at  2019/11/6 星期三 14:15:07
+2019/11/6 星期三 14:15:09 2号回调: 17
+buffer转化耗时：56  from 16  at  2019/11/6 星期三 14:15:09
+2019/11/6 星期三 14:15:09 1号回调: 17
+转换为hobject58  from 16  at  2019/11/6 星期三 14:15:09
+合并耗时：0.0899708786473639  from 16  at  2019/11/6 星期三 14:15:09
+缺陷个数0  from 16  at  2019/11/6 星期三 14:15:10
+缺陷耗时1.10343718406875  from 16  at  2019/11/6 星期三 14:15:10
+写入0-16耗时1.11029071759913  from 16  at  2019/11/6 星期三 14:15:10
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''16.jpg where  ClothNumber=20191106002 and  MeterNumber=16' at line 1
+   在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\东蒙1911051\MultiBoardSyncGrabDemoDlg.cs:行号 5616  from 16  at  2019/11/6 星期三 14:15:10
+写入17-48耗时1.17971290906189  from 16  at  2019/11/6 星期三 14:15:10
+写入数据库总耗时1.24682445373492  from 16  at  2019/11/6 星期三 14:15:11
+开启线程耗时1.2490292651446  from 16  at  2019/11/6 星期三 14:15:11
+保存图像耗时1.25141443999019  from 16  at  2019/11/6 星期三 14:15:11
+色差曲线耗时1.30226113688786  from 16  at  2019/11/6 星期三 14:15:11
+曲线2显示耗时1.3192837327415  from 17  at  2019/11/6 星期三 14:15:11
+2019/11/6 星期三 14:15:11 程序处理 : 17
+显示帧率耗时1.32749373230126  from 17  at  2019/11/6 星期三 14:15:11
+总耗时1.33025542620999  from 17  at  2019/11/6 星期三 14:15:11
+buffer转化耗时：58  from 17  at  2019/11/6 星期三 14:15:12
+2019/11/6 星期三 14:15:12 1号回调: 18
+转换为hobject61  from 17  at  2019/11/6 星期三 14:15:12
+2019/11/6 星期三 14:15:12 2号回调: 18
+合并耗时：0.0984640294082055  from 17  at  2019/11/6 星期三 14:15:12

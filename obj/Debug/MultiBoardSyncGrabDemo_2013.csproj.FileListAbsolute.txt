@@ -1,0 +1,17 @@
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\bin\Debug\SapNETCSharpMultiBoardSyncGrabDemo.exe.config
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\SapNETCSharpMultiBoardSyncGrabDemo.exe
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\MultiBoardSyncGrabDemo_2013.csprojResolveAssemblyReference.cache
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.SapClassGui.AbortDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.SapClassGui.AboutBox.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.SapClassGui.AcqConfigDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.SapClassGui.AviFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.SapClassGui.BufferDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.SapClassGui.ImageBox.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.SapClassGui.JpegFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.SapClassGui.RawFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.SapClassGui.TiffFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.SapClassGui.ViewDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.Properties.Resources.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Debug\MultiBoardSyncGrabDemo_2013.csproj.GenerateResource.Cache

@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A7569E0F-989D-44CC-B015-45963FC6D1C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DALSA.SaperaLT.Demos.NET.CSharp.ClothDetectDemo</RootNamespace>
+    <AssemblyName>ClothDetectDemo</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>None</ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>D69767E260F56286E997A63B3D386C2A4F68C1BE</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>MultiBoardSyncGrabDemo_2015_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.XJaiLT400CLLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.XJaiLT400CLLib.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DALSA.SaperaLT.SapClassBasic, Version=8.30.0.0, Culture=neutral, PublicKeyToken=4d8604101dcb6b58, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Components\NET\Bin\DALSA.SaperaLT.SapClassBasic.dll</HintPath>
+    </Reference>
+    <Reference Include="halcondotnet, Version=13.0.2.0, Culture=neutral, PublicKeyToken=4973bed59ddbf2b8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\halcondotnet.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.11.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm.Designer.cs">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AutoSizeFormClass.cs" />
+    <Compile Include="ClothDetailForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClothDetailForm.Designer.cs">
+      <DependentUpon>ClothDetailForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ColorDiff01.cs" />
+    <Compile Include="DetectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetectForm.Designer.cs">
+      <DependentUpon>DetectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inifles.cs" />
+    <Compile Include="MessageBoxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxForm.Designer.cs">
+      <DependentUpon>MessageBoxForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxHelper.cs" />
+    <Compile Include="MultiBoardSyncGrabDemoDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultiBoardSyncGrabDemoDlg.Designer.cs">
+      <DependentUpon>MultiBoardSyncGrabDemoDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MultiBoardSyncGrabDemo.cs" />
+    <Compile Include="MysqlHelper0911.cs" />
+    <Compile Include="Parameter.cs" />
+    <Compile Include="ParForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parForm.Designer.cs">
+      <DependentUpon>ParForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordForm.Designer.cs">
+      <DependentUpon>PasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PublicClass.cs" />
+    <Compile Include="ParamSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParamSettingForm.Designer.cs">
+      <DependentUpon>ParamSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\AbortDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\AbortDlg.Designer.cs">
+      <DependentUpon>AbortDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\AcqConfigDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\AcqConfigDlg.Designer.cs">
+      <DependentUpon>AcqConfigDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\AviFileDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\AviFileDlg.designer.cs">
+      <DependentUpon>AviFileDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\BayerDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\BayerDlg.Designer.cs">
+      <DependentUpon>BayerDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\BufDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\BufDlg.Designer.cs">
+      <DependentUpon>BufDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\ColorConvDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\ColorConvDlg.Designer.cs">
+      <DependentUpon>ColorConvDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\FlatFieldDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\FlatFieldDlg.designer.cs">
+      <DependentUpon>FlatFieldDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\HighFrameDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\HighFrameDlg.Designer.cs">
+      <DependentUpon>HighFrameDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\ImageBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SapGUI\ImageBox.designer.cs">
+      <DependentUpon>ImageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\ImageWnd.cs" />
+    <Compile Include="SapGUI\JpegFileDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\JpegFileDlg.Designer.cs">
+      <DependentUpon>JpegFileDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\LoadSaveDlg.cs" />
+    <Compile Include="SapGUI\RawFileDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\RawFileDlg.Designer.cs">
+      <DependentUpon>RawFileDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\SystemMenu.cs" />
+    <Compile Include="SapGUI\TiffFileDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\TiffFileDlg.Designer.cs">
+      <DependentUpon>TiffFileDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SapGUI\ViewDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SapGUI\ViewDlg.designer.cs">
+      <DependentUpon>ViewDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SQLForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SQLForm.Designer.cs">
+      <DependentUpon>SQLForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminForm.resx">
+      <DependentUpon>AdminForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClothDetailForm.resx">
+      <DependentUpon>ClothDetailForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetectForm.resx">
+      <DependentUpon>DetectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxForm.resx">
+      <DependentUpon>MessageBoxForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiBoardSyncGrabDemoDlg.resx">
+      <DependentUpon>MultiBoardSyncGrabDemoDlg.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parForm.resx">
+      <DependentUpon>ParForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordForm.resx">
+      <DependentUpon>PasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ParamSettingForm.resx">
+      <DependentUpon>ParamSettingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\AbortDlg.resx">
+      <DependentUpon>AbortDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\AcqConfigDlg.resx">
+      <DependentUpon>AcqConfigDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\AviFileDlg.resx">
+      <DependentUpon>AviFileDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\BayerDlg.resx">
+      <DependentUpon>BayerDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\BufDlg.resx">
+      <DependentUpon>BufDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\ColorConvDlg.resx">
+      <DependentUpon>ColorConvDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\FlatFieldDlg.resx">
+      <DependentUpon>FlatFieldDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\HighFrameDlg.resx">
+      <DependentUpon>HighFrameDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\ImageBox.resx">
+      <DependentUpon>ImageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\JpegFileDlg.resx">
+      <DependentUpon>JpegFileDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\RawFileDlg.resx">
+      <DependentUpon>RawFileDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\TiffFileDlg.resx">
+      <DependentUpon>TiffFileDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SapGUI\ViewDlg.resx">
+      <DependentUpon>ViewDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SQLForm.resx">
+      <DependentUpon>SQLForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VisualBasic.PowerPacks.10.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Basic PowerPacks 10.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxXJaiLT400CLLib">
+      <Guid>{DF93C8F7-0E1F-4205-B5BA-9608E7B44B90}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

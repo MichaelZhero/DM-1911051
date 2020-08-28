@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\东蒙0517\东蒙201905162\东蒙20190508多线程双回调\bin\Debug\SapNETCSharpMultiBoardSyncGrabDemo.exe.config
+C:\Users\Administrator\Desktop\东蒙0517\东蒙201905162\东蒙20190508多线程双回调\obj\Debug\Interop.XJaiLT400CLLib.dll
+C:\Users\Administrator\Desktop\东蒙0517\东蒙201905162\东蒙20190508多线程双回调\obj\Debug\AxInterop.XJaiLT400CLLib.dll
+C:\Users\Administrator\Desktop\东蒙0517\东蒙201905162\东蒙20190508多线程双回调\obj\Debug\MultiBoardSyncGrabDemo_2015.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\东蒙0517\东蒙201905162\东蒙20190508多线程双回调\obj\Debug\SapNETCSharpMultiBoardSyncGrabDemo.exe
+C:\Users\Administrator\Desktop\东蒙0517\东蒙201905162\东蒙20190508多线程双回调\obj\Debug\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+C:\Users\Administrator\Desktop\东蒙0523\东蒙20190523\东蒙20190523\bin\Debug\SapNETCSharpMultiBoardSyncGrabDemo.exe.config
+C:\Users\Administrator\Desktop\东蒙0523\东蒙20190523\东蒙20190523\obj\Debug\Interop.XJaiLT400CLLib.dll
+C:\Users\Administrator\Desktop\东蒙0523\东蒙20190523\东蒙20190523\obj\Debug\AxInterop.XJaiLT400CLLib.dll
+C:\Users\Administrator\Desktop\东蒙0523\东蒙20190523\东蒙20190523\obj\Debug\MultiBoardSyncGrabDemo_2015.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\东蒙0523\东蒙20190523\东蒙20190523\obj\Debug\SapNETCSharpMultiBoardSyncGrabDemo.exe
+C:\Users\Administrator\Desktop\东蒙0523\东蒙20190523\东蒙20190523\obj\Debug\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+C:\Users\Administrator\Desktop\东蒙0523\东蒙20190523\东蒙20190523\bin\Debug\ClothDetectDemo.exe.config

@@ -1,0 +1,49 @@
+当前时间：2019/6/3 9:06:57
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190602\MultiBoardSyncGrabDemoDlg.cs:行号 1081
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/3 9:06:57
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190602\MultiBoardSyncGrabDemoDlg.cs:行号 3555
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/3 9:06:57
+异常信息：给定的端口名称未以 COM/com 开头或未解析为有效的串行端口。
+参数名: portName
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190602\MultiBoardSyncGrabDemoDlg.cs:行号 3564
+触发方法：Void .ctor(System.String, Int32, System.IO.Ports.Parity, Int32, System.IO.Ports.StopBits, Int32, Int32, System.IO.Ports.Handshake, Boolean, Boolean, Boolean, Byte)
+
+当前时间：2019/6/3 9:06:57
+异常信息：给定的端口名称未以 COM/com 开头或未解析为有效的串行端口。
+参数名: portName
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190602\MultiBoardSyncGrabDemoDlg.cs:行号 3573
+触发方法：Void .ctor(System.String, Int32, System.IO.Ports.Parity, Int32, System.IO.Ports.StopBits, Int32, Int32, System.IO.Ports.Handshake, Boolean, Boolean, Boolean, Byte)
+
+当前时间：2019/6/3 9:07:04
+异常信息：引发类型为“System.Windows.Forms.AxHost+InvalidActiveXStateException”的异常。
+异常对象：AxInterop.XJaiLT400CLLib
+调用堆栈：
+在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.InitObject() 位置 C:\Users\Administrator\Desktop\东蒙190602\MultiBoardSyncGrabDemoDlg.cs:行号 1326
+触发方法：Int32 StartCommunication(Int32, Int32)
+

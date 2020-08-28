@@ -1,0 +1,1159 @@
+当前时间：2019/6/12 星期三 8:58:07
+异常信息：Unknown column '林晨宽' in 'field list'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 8:58:56
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 8:58:56
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 8:58:56
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 8:58:56
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 8:58:56
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 8:58:56
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 8:58:56
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 8:58:56
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:00:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:00:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:00:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:00:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:00:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:00:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:00:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:00:07
+异常信息：Duplicate entry '201906125732' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：Duplicate entry '201906125732' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber = 201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:49
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ClothNumber =  201906125732' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:00:50
+异常信息：Duplicate entry '201906125732' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:46:50
+异常信息：Unknown column '林晨宽' in 'field list'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 9:47:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:47:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:47:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:47:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:47:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:47:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:47:03
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 9:47:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 9:47:05
+异常信息：HALCON error #1203: Wrong type of control parameter 3 in operator write_image
+触发方法：Void throwOperator(Int32, Int32)
+
+当前时间：2019/6/12 星期三 10:05:40
+异常信息：Unknown column '余建安' in 'field list'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:05:52
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:08:35
+异常信息：Duplicate entry '201906120527' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:35
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:35
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1.jpg where  ClothNumber=201906120527 and  MeterNumber=1' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:37
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:37
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2.jpg where  ClothNumber=201906120527 and  MeterNumber=2' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:38
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:38
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''3.jpg where  ClothNumber=201906120527 and  MeterNumber=3' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:42
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:42
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:08:42
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''4.jpg where  ClothNumber=201906120527 and  MeterNumber=4' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:43
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:43
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''5.jpg where  ClothNumber=201906120527 and  MeterNumber=5' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:44
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:44
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''6.jpg where  ClothNumber=201906120527 and  MeterNumber=6' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:48
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:08:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''7.jpg where  ClothNumber=201906120527 and  MeterNumber=7' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''8.jpg where  ClothNumber=201906120527 and  MeterNumber=8' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:52
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:52
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:08:52
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''9.jpg where  ClothNumber=201906120527 and  MeterNumber=9' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:54
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:55
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''10.jpg where  ClothNumber=201906120527 and  MeterNumber=10' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:56
+异常信息：Duplicate entry '201906120527' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:56
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:56
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''11.jpg where  ClothNumber=201906120527 and  MeterNumber=11' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:56
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120527' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:08:57
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''11.jpg where  ClothNumber=201906120527 and  MeterNumber=12' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:09:13
+异常信息：Unknown column '林晨宽' in 'field list'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:09:26
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:09:26
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:09:26
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:09:26
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:09:26
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:09:26
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:09:26
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:09:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906120903' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:10:31
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:10:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:10:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:10:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:10:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:10:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:10:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:10:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:07
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:11:11
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:11
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:11
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:11
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:11
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:11
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:12
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:13
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:13
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:13
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:13
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:13
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:13
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:14
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:11:20
+异常信息：Duplicate entry '201906120903' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:13:31
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:31
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:31
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:31
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:31
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:31
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:31
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:31
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:32
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:13:32
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:13:51
+异常信息：Duplicate entry '201906121315' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:18:36
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:18:36
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:18:36
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:18:36
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:18:36
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:18:36
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:18:37
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:04
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:04
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:04
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:04
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:04
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:04
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:32:18
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:32:41
+异常信息：Duplicate entry '201906123148' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:36:46
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:36:46
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:36:46
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:36:46
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:36:46
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:36:46
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:36:47
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:36:49
+异常信息：HALCON error #1203: Wrong type of control parameter 3 in operator write_image
+触发方法：Void throwOperator(Int32, Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Duplicate entry '201906123636' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:03
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:38:05
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:05
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''1.jpg where  ClothNumber=201906123636 and  MeterNumber=1' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:07
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:07
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2.jpg where  ClothNumber=201906123636 and  MeterNumber=2' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:09
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:09
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''3.jpg where  ClothNumber=201906123636 and  MeterNumber=3' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:13
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:13
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''4.jpg where  ClothNumber=201906123636 and  MeterNumber=4' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:14
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:15
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''5.jpg where  ClothNumber=201906123636 and  MeterNumber=5' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:15
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:15
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:38:15
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''5.jpg where  ClothNumber=201906123636 and  MeterNumber=6' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:16
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:16
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''7.jpg where  ClothNumber=201906123636 and  MeterNumber=7' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:18
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:18
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''8.jpg where  ClothNumber=201906123636 and  MeterNumber=8' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:20
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:20
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''9.jpg where  ClothNumber=201906123636 and  MeterNumber=9' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:22
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:22
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''10.jpg where  ClothNumber=201906123636 and  MeterNumber=10' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:24
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:24
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''11.jpg where  ClothNumber=201906123636 and  MeterNumber=11' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:26
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''12.jpg where  ClothNumber=201906123636 and  MeterNumber=12' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:28
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:28
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''13.jpg where  ClothNumber=201906123636 and  MeterNumber=13' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:30
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:30
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''14.jpg where  ClothNumber=201906123636 and  MeterNumber=14' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:32
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:32
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''15.jpg where  ClothNumber=201906123636 and  MeterNumber=15' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:34
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:34
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''16.jpg where  ClothNumber=201906123636 and  MeterNumber=16' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:36
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:36
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''17.jpg where  ClothNumber=201906123636 and  MeterNumber=17' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:37
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:38
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''18.jpg where  ClothNumber=201906123636 and  MeterNumber=18' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:39
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123636' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:38:40
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''19.jpg where  ClothNumber=201906123636 and  MeterNumber=19' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:39:49
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:39:49
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:39:49
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:39:49
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:39:49
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:39:50
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:39:50
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:39:50
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/' where  ClothNumber=201906123935' at line 1
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:41:10
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:41:34
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:41:49
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:42:11
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:42:11
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:42:11
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:42:12
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:42:13
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:42:21
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:42:21
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:42:21
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:42:41
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:43:22
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:46:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:46:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:46:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:46:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:46:07
+异常信息：Index out of range
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 10:46:07
+异常信息：Duplicate entry '201906123935' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:46:09
+异常信息：HALCON error #1203: Wrong type of control parameter 3 in operator write_image
+触发方法：Void throwOperator(Int32, Int32)
+
+当前时间：2019/6/12 星期三 10:46:52
+异常信息：Duplicate entry '201906123935' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 10:46:53
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 10:46:53
+异常信息：Duplicate entry '201906123935' for key 'PRIMARY'
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 11:09:27
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 2665
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 11:09:27
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 2665
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 11:09:28
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 2665
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 11:09:28
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 2665
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 11:09:28
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+异常对象：mscorlib
+调用堆栈：
+在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.RemoveRange(Int32 index, Int32 count)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.WriteDefectInfoToSQLOnline(HTuple hv_tupleDefectX, HTuple hv_tupleDefectClass, HTuple hv_defectNumber, HTuple hv_tupleDefectY) 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 817
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ProcessAction() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 462
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 11:09:31
+异常信息：偏移量和长度超出数组的界限，或者计数大于从索引到源集合结尾处的元素数量。
+异常对象：mscorlib
+调用堆栈：
+在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.List`1.RemoveRange(Int32 index, Int32 count)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.WriteDefectInfoToSQLOnline(HTuple hv_tupleDefectX, HTuple hv_tupleDefectClass, HTuple hv_defectNumber, HTuple hv_tupleDefectY) 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 817
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ProcessAction() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 462
+触发方法：Void ThrowArgumentException(System.ExceptionResource)
+
+当前时间：2019/6/12 星期三 11:09:32
+异常信息：HALCON error #1203: Wrong type of control parameter 3 in operator write_image
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HOperatorException.throwOperator(Int32 err, Int32 procIndex)
+   在 HalconDotNet.HalconAPI.PostCall(IntPtr proc, Int32 procResult)
+   在 HalconDotNet.HOperatorSet.WriteImage(HObject image, HTuple format, HTuple fillColor, HTuple fileName)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.get_defect_aberration(HObject ho_Image, HObject& ho_ImageWithDefect, HTuple hv_windowHandle, HTuple hv_standardTupleL, HTuple hv_standardTupleA, HTuple hv_standardTupleB, HTuple& hv_clothAberration, HTuple& hv_L, HTuple& hv_A, HTuple& hv_B, HTuple& hv_result, HTuple& hv_tupleDetectResult, HTuple& hv_defectNumber, HTuple& hv_tupleDefectClass, HTuple& hv_tupleDefectX, HTuple& hv_tupleDefectY, HTuple& hv_tupleDefectRow1, HTuple& hv_tupleDefectRow2, HTuple& hv_tupleDefectColumn1, HTuple& hv_tupleDefectColumn2, HTuple& hv_minWidth, HTuple& hv_maxWidth, HTuple& hv_meanWidth, HTuple& hv_metersCounter, HTuple& hv_tupleMessages, HTuple& hv_tupleMessagesColor, HTuple& hv_leftDetectSide, HTuple& hv_rightDetectSide) 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 7112
+触发方法：Void throwOperator(Int32, Int32)
+
+当前时间：2019/6/12 星期三 11:45:36
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 2669
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 11:45:36
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 2669
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 11:45:36
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 2669
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 11:45:36
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 2669
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 11:45:36
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 2669
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 11:45:36
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 2669
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 11:45:36
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ProcessAction() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 479
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/12 星期三 11:46:16
+异常信息：Duplicate entry '201906124522' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 4811
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/12 星期三 14:45:42
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 1191
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/12 星期三 14:45:57
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 1210
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/12 星期三 14:47:05
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 1191
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/12 星期三 14:47:20
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：JAI
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190612\东蒙190612\MultiBoardSyncGrabDemoDlg.cs:行号 1210
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+

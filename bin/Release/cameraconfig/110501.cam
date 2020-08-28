@@ -1,0 +1,64 @@
+[General]
+ModelName=LT-200CL/LT-400CL/LT-200CL-60/LT-400CL-11
+Model Name=LT-400CL
+[Format]
+V Binning=0
+Bit Allocation=0
+Test Pattern=0
+Sensor Read Out=0
+[Trigger]
+Trigger Mode=1
+Trigger Origin=1
+Trigger Input=0
+Trigger Polarity=0
+Auto Reset Mode=0
+[Exposure]
+Line Rate=44000
+Line Rate Reference=600
+Exposure Mode=1
+Exposure Red=4800
+Exposure Green=4800
+Exposure Blue=4800
+[Gain]
+Gain Mode=1
+Master Gain=0
+Red Gain=168
+Blue Gain=130
+Red Sensor Gain=0
+Green Sensor Gain=0
+Blue Sensor Gain=0
+White Balance Mode=0
+Black Level Mode=0
+Master Black Level=32
+Red Black Level=0
+Blue Black Level=0
+Knee Mode=0
+Red Knee Slope=65535
+Green Knee Slope=65535
+Blue Knee Slope=65535
+Red Knee Point=858
+Green Knee Point=858
+Blue Knee Point=858
+[Others]
+Shading Mode=2
+Shading Type=0
+Pixel Gain Mode=2
+Pixel Black Mode=2
+Noise Reduction=0
+Cable Selection=0
+Moving Average Control=0
+FIR Filter Selection=0
+APF Control=0
+Aberration Input Name 1=Lens1
+Aberration Input Name 2=Lens2
+Aberration Input Name 3=Lens3
+Aberration Left Red=0
+Aberration Left Blue=0
+Aberration Area Red=6
+Aberration Area Blue=6
+Aberration Second Pixel Red=4
+Aberration Second Pixel Blue=4
+Aberration Third Pixel Red=2
+Aberration Third Pixel Blue=2
+[User Area]
+EEPROM Area=1

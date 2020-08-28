@@ -1,0 +1,1087 @@
+当前时间：2019/6/19 11:26:48
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1192
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 11:26:54
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1211
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 11:26:54
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3763
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 11:27:52
+异常信息：HALCON error #1401: Wrong number of values of control parameter 1 in operator set_part
+异常对象：ClothDetectDemo
+调用堆栈：
+在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.disp_detect_result(HObject ho_Image, HObject ho_Boxs, HObject& ho_ImageDump, HTuple hv_windowHandle, HTuple hv_tupleBackgroundColor, HTuple hv_tupleDefectRow1, HTuple hv_tupleDefectRow2, HTuple hv_tupleDefectColumn1, HTuple hv_tupleDefectColumn2, HTuple hv_minWidth, HTuple hv_maxWidth, HTuple hv_meanWidth, HTuple hv_metersCounter, HTuple hv_tupleMessages, HTuple hv_tupleMessagesColor, HTuple hv_LeftDetectSide, HTuple hv_RightDetectSide) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 8015
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4087
+触发方法：Void disp_detect_result(HalconDotNet.HObject, HalconDotNet.HObject, HalconDotNet.HObject ByRef, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple)
+
+当前时间：2019/6/19 11:32:50
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1192
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 11:32:53
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1211
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 11:32:53
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3763
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 11:33:20
+异常信息：HALCON error #1401: Wrong number of values of control parameter 1 in operator set_part
+异常对象：ClothDetectDemo
+调用堆栈：
+在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.disp_detect_result(HObject ho_Image, HObject ho_Boxs, HObject& ho_ImageDump, HTuple hv_windowHandle, HTuple hv_tupleBackgroundColor, HTuple hv_tupleDefectRow1, HTuple hv_tupleDefectRow2, HTuple hv_tupleDefectColumn1, HTuple hv_tupleDefectColumn2, HTuple hv_minWidth, HTuple hv_maxWidth, HTuple hv_meanWidth, HTuple hv_metersCounter, HTuple hv_tupleMessages, HTuple hv_tupleMessagesColor, HTuple hv_LeftDetectSide, HTuple hv_RightDetectSide) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 8015
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4087
+触发方法：Void disp_detect_result(HalconDotNet.HObject, HalconDotNet.HObject, HalconDotNet.HObject ByRef, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple)
+
+当前时间：2019/6/19 12:56:05
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1192
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 12:56:11
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1211
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 12:56:11
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3763
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 12:58:43
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4098
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/19 12:58:54
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 12:58:54
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522 and  MeterNumber=2' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 12:59:06
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 12:59:06
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522 and  MeterNumber=3' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 12:59:41
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 12:59:41
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522 and  MeterNumber=4' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 12:59:53
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 12:59:53
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522 and  MeterNumber=5' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 13:00:04
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 13:00:04
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522 and  MeterNumber=6' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 13:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 13:00:48
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522 and  MeterNumber=7' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 13:00:59
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 13:00:59
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522 and  MeterNumber=8' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 13:01:11
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 13:01:11
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906124522 and  MeterNumber=9' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 13:53:22
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1192
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 13:53:25
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1211
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 13:53:25
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3763
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 13:57:31
+异常信息：Unknown column '林晨宽' in 'field list'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4815
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 13:57:56
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4098
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/19 14:04:04
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1192
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 14:04:07
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1211
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 14:04:07
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3763
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 14:05:13
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4098
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/19 14:26:44
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1192
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 14:26:49
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1211
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 14:26:50
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3763
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 15:39:59
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1192
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 15:40:02
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1211
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 15:40:03
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3763
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 15:40:34
+异常信息：HALCON error #5235: Wrong graphic format in operator read_image
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HOperatorException.throwOperator(Int32 err, Int32 procIndex)
+   在 HalconDotNet.HalconAPI.PostCall(IntPtr proc, Int32 procResult)
+   在 HalconDotNet.HOperatorSet.ReadImage(HObject& image, HTuple fileName)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4037
+触发方法：Void throwOperator(Int32, Int32)
+
+当前时间：2019/6/19 15:40:57
+异常信息：HALCON error #5235: Wrong graphic format in operator read_image
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HOperatorException.throwOperator(Int32 err, Int32 procIndex)
+   在 HalconDotNet.HalconAPI.PostCall(IntPtr proc, Int32 procResult)
+   在 HalconDotNet.HOperatorSet.ReadImage(HObject& image, HTuple fileName)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4037
+触发方法：Void throwOperator(Int32, Int32)
+
+当前时间：2019/6/19 16:05:05
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1194
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 16:05:08
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1213
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 16:05:08
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3765
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 16:05:40
+异常信息：Unknown column '林晨宽' in 'field list'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:13:57
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1194
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 16:14:02
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1213
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 16:14:02
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3765
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 16:19:34
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1194
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 16:19:39
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1213
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 16:19:39
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3765
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 16:32:03
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1194
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 16:32:08
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1213
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 16:32:08
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3765
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 16:43:08
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1194
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 16:43:14
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1213
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 16:43:14
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3765
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/19 16:43:36
+异常信息：Duplicate entry '201906193220' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:43:40
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:43:40
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=2' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:43:47
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:43:47
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=3' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:43:54
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:43:54
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=4' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:01
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:01
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=5' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:08
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:08
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=6' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:16
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:16
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=7' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:23
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:23
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=8' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:30
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:30
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=9' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:38
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:38
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=10' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:44
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:44
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=11' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:52
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:52
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=12' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:59
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:44:59
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=13' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:45:06
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:45:06
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=14' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:45:13
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 16:45:13
+异常信息：You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'jpg' where  ClothNumber=201906193220 and  MeterNumber=15' at line 1
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4828
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/19 17:25:16
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1194
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 17:25:19
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 1213
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/19 17:25:19
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 3765
+触发方法：Void WinIOError(Int32, System.String)
+

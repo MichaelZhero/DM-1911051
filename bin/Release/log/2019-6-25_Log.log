@@ -1,0 +1,313 @@
+当前时间：2019/6/25 星期二 9:02:52
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4974
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 9:03:00
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2777
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 9:03:00
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2773
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 9:03:00
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2773
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 9:03:00
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2773
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 9:03:00
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2773
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 9:03:00
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2773
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 10:00:31
+异常信息：Duplicate entry '林晨宽' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4936
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 10:11:31
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4936
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 10:17:59
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4936
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 10:19:19
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4936
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 11:16:01
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4936
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 13:59:50
+异常信息：Duplicate entry '林晨宽' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4936
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 14:18:05
+异常信息：Duplicate entry '林晨宽' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4949
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 14:24:01
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4949
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 14:39:42
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4962
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 14:39:50
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2750
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:39:50
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2751
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:39:50
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2746
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:39:51
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2746
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:39:51
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2746
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:39:51
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2746
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:39:51
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2746
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:39:51
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2746
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:39:51
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2746
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:39:51
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2746
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:39:51
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2746
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:39:51
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 2746
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/25 星期二 14:41:38
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4962
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 14:43:49
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4962
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/25 星期二 14:46:16
+异常信息：Duplicate entry '' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 H:\1DM\东蒙190624\东蒙190624\东蒙1906191\MultiBoardSyncGrabDemoDlg.cs:行号 4962
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+

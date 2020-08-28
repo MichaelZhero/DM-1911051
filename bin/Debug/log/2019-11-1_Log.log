@@ -1,0 +1,132 @@
+当前时间：2019/11/1 8:57:53
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 4086
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/11/1 9:09:11
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 4089
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/11/1 9:14:23
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 4089
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/11/1 9:14:57
+异常信息：Duplicate entry '张三' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 5419
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/11/1 9:23:19
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 4089
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/11/1 9:23:53
+异常信息：Duplicate entry '张三' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 5419
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/11/1 9:26:23
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 4089
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/11/1 9:47:04
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 4090
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/11/1 9:51:14
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 4090
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/11/1 9:52:44
+异常信息：Duplicate entry '林晨宽' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 5431
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/11/1 10:04:57
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 4091
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/11/1 10:05:29
+异常信息：Duplicate entry '林晨宽' for key 'PRIMARY'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 E:\1DM\东蒙191029\MultiBoardSyncGrabDemoDlg.cs:行号 5432
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+

@@ -1,0 +1,12 @@
+
+1.在需要自适应的Form中实例化全局变量   AutoSizeFormClass.cs源码在下方
+
+     AutoSizeFormClass asc = new AutoSizeFormClass();
+
+2.Form_Load事件中  
+
+     asc.controllInitializeSize(this);
+
+3.Page_SizeChanged事件中
+
+     asc.controlAutoSize(this);

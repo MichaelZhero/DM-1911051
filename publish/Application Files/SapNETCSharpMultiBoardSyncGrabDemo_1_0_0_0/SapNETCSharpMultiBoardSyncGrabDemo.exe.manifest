@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="SapNETCSharpMultiBoardSyncGrabDemo.exe" version="1.0.0.0" publicKeyToken="11c8f0da6a23dfbb" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SapNETCSharpMultiBoardSyncGrabDemo" version="8.30.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="SapNETCSharpMultiBoardSyncGrabDemo.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC 清单选项
+             如果想要更改 Windows 用户帐户控制级别，请使用
+             以下节点之一替换 requestedExecutionLevel 节点。n
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            指定 requestedExecutionLevel 元素将禁用文件和注册表虚拟化。
+            如果你的应用程序需要此虚拟化来实现向后兼容性，则删除此
+            元素。
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DALSA.SaperaLT.SapClassBasic.dll" size="1260032">
+      <assemblyIdentity name="DALSA.SaperaLT.SapClassBasic" version="8.31.0.1827" publicKeyToken="4D8604101DCB6B58" language="neutral" processorArchitecture="amd64" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SZY9hTA4B8zGVg/NaiNo/jxQdeVBylAdhL4anqSHhh0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.Protobuf.dll" size="294400">
+      <assemblyIdentity name="Google.Protobuf" version="3.5.1.0" publicKeyToken="A7D26565BAC4D604" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kmmLSyM9YCkmP+X33YMDTg/6sJlFHUuInLwRv1o/LXM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="halcondotnet.dll" size="850168">
+      <assemblyIdentity name="halcondotnet" version="10.0.0.0" publicKeyToken="4973BED59DDBF2B8" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>EW7LWOTu4Fo+WsPazhCfpyezlV++KCa4d1g7A84MtME=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="688640">
+      <assemblyIdentity name="MySql.Data" version="8.0.11.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>KeY+Kh5+A5CIBvHLVvNsTVoTRzg+tC+GiEhPwdF1Rrk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OpenCvSharp.dll" size="434688">
+      <assemblyIdentity name="OpenCvSharp" version="1.0.0.0" publicKeyToken="6ADAD1E807FEA099" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>8AIXoe9U47C2aeva81WbfUJwujRATAM+CDRCDMFYoKk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OpenCvSharp.CPlusPlus.dll" size="659968">
+      <assemblyIdentity name="OpenCvSharp.CPlusPlus" version="1.0.0.0" publicKeyToken="6ADAD1E807FEA099" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>gGVdkUmkaptnhRqn0/APHUx3XpE2ReTSxUJzZukiHPo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SapNETCSharpMultiBoardSyncGrabDemo.exe" size="228368">
+      <assemblyIdentity name="SapNETCSharpMultiBoardSyncGrabDemo" version="8.30.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>fb6OsaURrw7d9VB0YU31EcpGijbdvXGV2dmonpdGK4o=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="SapNETCSharpMultiBoardSyncGrabDemo.exe.config" size="194">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>wnpCYjLrg+XJ4t4j0tATaoZ84xn0+BerRgVo7WXb1Tg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- 设计此应用程序与其一起工作且已针对此应用程序进行测试的
+           Windows 版本的列表。取消评论适当的元素，Windows 将
+           自动选择最兼容的环境。 -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=9OBD17P1DM6IGOU\Administrator" issuerKeyHash="14db970ac5a786907b038acacaac8b25b89853b9" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>34hg7cxvoWdl3ZPM1/z1tcA3bnctvBuDqGMLrF2PN68=</DigestValue></Reference></SignedInfo><SignatureValue>UTWbMbiwhG7fN/SpGLNkafJ4N8eoiNMevfbJQsBAyI/A/Q2yXU0McynoF/noG3NTSxWPwZ6Gz0T3dMu24c2m4pOhPWemoLyCdaqqjd5rv48iFyTNmuxhYUMygCfObAGj1eOa0/s6VrHp+Ko+kNu4j19rNGrZzSXxb2nzD/SCwxc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>z/Fidak7VhXohICN1ZmZZ+yL0+gYQmchXTXrmYV4IRAuaChmdYbXwWxC2CVufQLSFXjS7zppfxECjrKOFYW4IsYpLIFLK374UC6h+cGfG/cMOQtJtYYuKoYq9z9N4fR1oDCMZqX66y9aUbBKhbDOIvraQxP+yz66DN9A6igiejs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="af378f5dac0b63a8831bbc2d776e37c0b5f5fcd7cc93dd6567a16fcced6088df" Description="" Url=""><as:assemblyIdentity name="SapNETCSharpMultiBoardSyncGrabDemo.exe" version="1.0.0.0" publicKeyToken="11c8f0da6a23dfbb" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=9OBD17P1DM6IGOU\Administrator</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>AzmgyW0AwmroUxMMdVY5j8uqukxyzPFGipDn/P0DhAU=</DigestValue></Reference></SignedInfo><SignatureValue>Nru6JaL8p6aTQa7d7tkPys6U4Sp+azTHPLbr0TthGUWNzgO9i11QW1LFEmxPXxojmK9FNHvPqdvl6at1TDxBobFwoZNe3lw1+duXuux1jOgxhgtQdB7xmNVB8YZyZKcxAorR9+lpmvIyRj6dOA9o55Q8dWqq7Dkr6CXe2inb6CE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>z/Fidak7VhXohICN1ZmZZ+yL0+gYQmchXTXrmYV4IRAuaChmdYbXwWxC2CVufQLSFXjS7zppfxECjrKOFYW4IsYpLIFLK374UC6h+cGfG/cMOQtJtYYuKoYq9z9N4fR1oDCMZqX66y9aUbBKhbDOIvraQxP+yz66DN9A6igiejs=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICDTCCAXagAwIBAgIQGJ8NzGoR5IdN68aM21X3sjANBgkqhkiG9w0BAQsFADBFMUMwQQYDVQQDHjoAOQBPAEIARAAxADcAUAAxAEQATQA2AEkARwBPAFUAXABBAGQAbQBpAG4AaQBzAHQAcgBhAHQAbwByMB4XDTE5MDIyMDAyMTA1MloXDTIwMDIyMDA4MTA1MlowRTFDMEEGA1UEAx46ADkATwBCAEQAMQA3AFAAMQBEAE0ANgBJAEcATwBVAFwAQQBkAG0AaQBuAGkAcwB0AHIAYQB0AG8AcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAz/Fidak7VhXohICN1ZmZZ+yL0+gYQmchXTXrmYV4IRAuaChmdYbXwWxC2CVufQLSFXjS7zppfxECjrKOFYW4IsYpLIFLK374UC6h+cGfG/cMOQtJtYYuKoYq9z9N4fR1oDCMZqX66y9aUbBKhbDOIvraQxP+yz66DN9A6igiejsCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAU9JB13OXyygNmhKP+fkU1kv82tguG/ey5ij4qlRosldc/d4HmpMuun97vDRoypgNZ3aWtScooWZfW2DMax8nA6XhCCFAuGsbwQIgUY5NzpekPlnFHoNwKXGWX+kxlCdgWDIlcUIDrmk6DROWFU32R0svVSGrI/xOp6xB5wuxRIw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

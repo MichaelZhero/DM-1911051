@@ -1,0 +1,495 @@
+当前时间：2019/6/10 9:42:36
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1147
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 9:42:39
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1166
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 9:42:39
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 3650
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/10 9:43:19
+异常信息：未能找到路径“F:\布匹色差检测图片存档\2019年6月10日\201906104302\原图\”的一部分。
+异常对象：mscorlib
+调用堆栈：
+在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   在 System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.StatusTimer_Tick(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2905
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/10 9:47:30
+异常信息：Unknown column '林晨宽' in 'field list'
+异常对象：MySql.Data
+调用堆栈：
+在 MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   在 MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   在 MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   在 MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   在 MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.ExecuteBatchSql(List`1 SQLStringList) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 4636
+触发方法：MySql.Data.MySqlClient.MySqlPacket ReadPacket()
+
+当前时间：2019/6/10 9:54:09
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1147
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 9:54:12
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1166
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 9:54:12
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 3650
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/10 10:00:46
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1147
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 10:00:49
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1166
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 10:00:49
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 3650
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/10 10:04:50
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:04:50
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:04:50
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:04:50
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:04:50
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:04:50
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:04:51
+异常信息：HALCON error #1401: Wrong number of values of control parameter 1 in operator set_part
+异常对象：ClothDetectDemo
+调用堆栈：
+在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.disp_detect_result(HObject ho_Image, HObject& ho_ImageDump, HTuple hv_windowHandle, HTuple hv_tupleBackgroundColor, HTuple hv_tupleDefectRow1, HTuple hv_tupleDefectRow2, HTuple hv_tupleDefectColumn1, HTuple hv_tupleDefectColumn2, HTuple hv_minWidth, HTuple hv_maxWidth, HTuple hv_meanWidth, HTuple hv_metersCounter, HTuple hv_tupleMessages, HTuple hv_tupleMessagesColor, HTuple hv_LeftDetectSide, HTuple hv_RightDetectSide) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 9219
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 3963
+触发方法：Void disp_detect_result(HalconDotNet.HObject, HalconDotNet.HObject ByRef, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple)
+
+当前时间：2019/6/10 10:08:18
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1147
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 10:08:24
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1166
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 10:08:25
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 3650
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/10 10:09:33
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:09:33
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:09:33
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:09:33
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:09:33
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:09:33
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:09:35
+异常信息：HALCON error #1401: Wrong number of values of control parameter 1 in operator set_part
+异常对象：ClothDetectDemo
+调用堆栈：
+在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.disp_detect_result(HObject ho_Image, HObject& ho_ImageDump, HTuple hv_windowHandle, HTuple hv_tupleBackgroundColor, HTuple hv_tupleDefectRow1, HTuple hv_tupleDefectRow2, HTuple hv_tupleDefectColumn1, HTuple hv_tupleDefectColumn2, HTuple hv_minWidth, HTuple hv_maxWidth, HTuple hv_meanWidth, HTuple hv_metersCounter, HTuple hv_tupleMessages, HTuple hv_tupleMessagesColor, HTuple hv_LeftDetectSide, HTuple hv_RightDetectSide) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 9219
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 3963
+触发方法：Void disp_detect_result(HalconDotNet.HObject, HalconDotNet.HObject ByRef, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple)
+
+当前时间：2019/6/10 10:19:45
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1147
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 10:19:51
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1166
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 10:19:51
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 3650
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/10 10:21:24
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:21:24
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:21:24
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:21:24
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:21:25
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:21:25
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:21:26
+异常信息：HALCON error #1401: Wrong number of values of control parameter 1 in operator set_part
+异常对象：ClothDetectDemo
+调用堆栈：
+在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.disp_detect_result(HObject ho_Image, HObject& ho_ImageDump, HTuple hv_windowHandle, HTuple hv_tupleBackgroundColor, HTuple hv_tupleDefectRow1, HTuple hv_tupleDefectRow2, HTuple hv_tupleDefectColumn1, HTuple hv_tupleDefectColumn2, HTuple hv_minWidth, HTuple hv_maxWidth, HTuple hv_meanWidth, HTuple hv_metersCounter, HTuple hv_tupleMessages, HTuple hv_tupleMessagesColor, HTuple hv_LeftDetectSide, HTuple hv_RightDetectSide) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 11145
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 3963
+触发方法：Void disp_detect_result(HalconDotNet.HObject, HalconDotNet.HObject ByRef, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple)
+
+当前时间：2019/6/10 10:23:53
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:23:53
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:23:53
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:23:53
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:23:53
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:23:53
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:23:54
+异常信息：HALCON error #1401: Wrong number of values of control parameter 1 in operator set_part
+异常对象：ClothDetectDemo
+调用堆栈：
+在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.disp_detect_result(HObject ho_Image, HObject& ho_ImageDump, HTuple hv_windowHandle, HTuple hv_tupleBackgroundColor, HTuple hv_tupleDefectRow1, HTuple hv_tupleDefectRow2, HTuple hv_tupleDefectColumn1, HTuple hv_tupleDefectColumn2, HTuple hv_minWidth, HTuple hv_maxWidth, HTuple hv_meanWidth, HTuple hv_metersCounter, HTuple hv_tupleMessages, HTuple hv_tupleMessagesColor, HTuple hv_LeftDetectSide, HTuple hv_RightDetectSide) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 11145
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 3963
+触发方法：Void disp_detect_result(HalconDotNet.HObject, HalconDotNet.HObject ByRef, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple)
+
+当前时间：2019/6/10 10:24:55
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1147
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 10:24:58
+异常信息：Operation time out.
+Please check the camera power and its cable.
+异常对象：XJaiLT400CL Control
+调用堆栈：
+在 System.RuntimeType.ForwardCallToInvokeMember(String memberName, BindingFlags flags, Object target, Int32[] aWrapperTypes, MessageData& msgData)
+   在 XJaiLT400CLLib._DXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 AxXJaiLT400CLLib.AxXJaiLT400CL.StartCommunication(Int32 nClass, Int32 nPort)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg..ctor() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 1166
+触发方法：System.Object ForwardCallToInvokeMember(System.String, System.Reflection.BindingFlags, System.Object, Int32[], System.Runtime.Remoting.Proxies.MessageData ByRef)
+
+当前时间：2019/6/10 10:24:58
+异常信息：端口“COM3”不存在。
+异常对象：System
+调用堆栈：
+在 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   在 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   在 System.IO.Ports.SerialPort.Open()
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.MultiBoardSyncGrabDemoDlg_Load(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 3650
+触发方法：Void WinIOError(Int32, System.String)
+
+当前时间：2019/6/10 10:26:00
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:26:00
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:26:00
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:26:00
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:26:01
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:26:01
+异常信息：Index out of range
+异常对象：halcondotnet
+调用堆栈：
+在 HalconDotNet.HTuple.get_Item(Int32 index)
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.writeLABtoini() 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 2625
+触发方法：HalconDotNet.HTupleElements get_Item(Int32)
+
+当前时间：2019/6/10 10:26:02
+异常信息：HALCON error #1401: Wrong number of values of control parameter 1 in operator set_part
+异常对象：ClothDetectDemo
+调用堆栈：
+在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.disp_detect_result(HObject ho_Image, HObject& ho_ImageDump, HTuple hv_windowHandle, HTuple hv_tupleBackgroundColor, HTuple hv_tupleDefectRow1, HTuple hv_tupleDefectRow2, HTuple hv_tupleDefectColumn1, HTuple hv_tupleDefectColumn2, HTuple hv_minWidth, HTuple hv_maxWidth, HTuple hv_meanWidth, HTuple hv_metersCounter, HTuple hv_tupleMessages, HTuple hv_tupleMessagesColor, HTuple hv_LeftDetectSide, HTuple hv_RightDetectSide) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 11145
+   在 DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.halcon_Click(Object sender, EventArgs e) 位置 C:\Users\Administrator\Desktop\东蒙190605\MultiBoardSyncGrabDemoDlg.cs:行号 3963
+触发方法：Void disp_detect_result(HalconDotNet.HObject, HalconDotNet.HObject ByRef, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple, HalconDotNet.HTuple)
+

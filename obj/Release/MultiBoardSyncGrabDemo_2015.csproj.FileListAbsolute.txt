@@ -1,0 +1,231 @@
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.config
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\bin\Release\DALSA.SaperaLT.SapClassBasic.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\bin\Release\MySql.Data.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\bin\Release\OpenCvSharp.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\bin\Release\Google.Protobuf.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\bin\Release\MySql.Data.xml
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.AbortDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.AboutBox.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.AcqConfigDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.AviFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.BufferDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.ImageBox.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.JpegFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.RawFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.TiffFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.ViewDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.Properties.Resources.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\MultiBoardSyncGrabDemo_2015.csproj.GenerateResource.Cache
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\CSharp\obj\Release\MultiBoardSyncGrabDemo_2015.csprojResolveAssemblyReference.cache
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.config
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\bin\Release\DALSA.SaperaLT.SapClassBasic.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\bin\Release\MySql.Data.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\bin\Release\OpenCvSharp.CPlusPlus.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\bin\Release\OpenCvSharp.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\bin\Release\Google.Protobuf.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\bin\Release\MySql.Data.xml
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\MultiBoardSyncGrabDemo_2015.csprojResolveAssemblyReference.cache
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.AbortDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.AboutBox.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.AcqConfigDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.AviFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.BufferDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.ImageBox.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.JpegFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.RawFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.TiffFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.SapClassGui.ViewDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.Properties.Resources.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo0802\CSharp\obj\Release\MultiBoardSyncGrabDemo_2015.csproj.GenerateResource.Cache
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.config
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\Interop.XJaiLT400CLLib.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\AxInterop.XJaiLT400CLLib.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csproj.ResolveComReference.cache
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.manifest
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.application
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\AxInterop.XJaiLT400CLLib.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\DALSA.SaperaLT.SapClassBasic.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\halcondotnet.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\MySql.Data.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\Interop.XJaiLT400CLLib.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\Google.Protobuf.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\halcondotnet.xml
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\bin\Release\MySql.Data.xml
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csprojResolveAssemblyReference.cache
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AbortDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AboutBox.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AcqConfigDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AviFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.SapClassGui.BufferDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.SapClassGui.ImageBox.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.SapClassGui.JpegFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.SapClassGui.RawFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.SapClassGui.TiffFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.SapClassGui.ViewDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.AdminForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.ClothDetailForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.DetectForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.Form1.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MessageBoxForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.PasswordForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.Properties.Resources.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.ParamSettingForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.SQLForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csproj.GenerateResource.Cache
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.TrustInfo.xml
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.manifest
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙CSharp20190326定时器双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.application
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.config
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\Interop.XJaiLT400CLLib.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\AxInterop.XJaiLT400CLLib.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csproj.ResolveComReference.cache
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.manifest
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.application
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\AxInterop.XJaiLT400CLLib.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\DALSA.SaperaLT.SapClassBasic.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\halcondotnet.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\MySql.Data.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\Interop.XJaiLT400CLLib.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\Google.Protobuf.dll
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\halcondotnet.xml
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\bin\Release\MySql.Data.xml
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csprojResolveAssemblyReference.cache
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AbortDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AboutBox.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AcqConfigDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AviFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.BufferDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.ImageBox.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.JpegFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.RawFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.TiffFileDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.ViewDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.AdminForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.ClothDetailForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.DetectForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.Form1.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MessageBoxForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.ParForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.PasswordForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.Properties.Resources.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.ParamSettingForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.SQLForm.resources
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csproj.GenerateResource.Cache
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.TrustInfo.xml
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.manifest
+C:\Program Files\Teledyne DALSA\Sapera\Demos\NET\MultiBoardSyncGrabDemo\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.application
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.config
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\Interop.XJaiLT400CLLib.dll
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\AxInterop.XJaiLT400CLLib.dll
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csproj.ResolveComReference.cache
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.manifest
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.application
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\AxInterop.XJaiLT400CLLib.dll
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\DALSA.SaperaLT.SapClassBasic.dll
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\halcondotnet.dll
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\MySql.Data.dll
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\Interop.XJaiLT400CLLib.dll
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\Google.Protobuf.dll
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\halcondotnet.xml
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\MySql.Data.xml
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csprojResolveAssemblyReference.cache
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AbortDlg.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AboutBox.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AcqConfigDlg.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AviFileDlg.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.BufferDlg.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.ImageBox.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.JpegFileDlg.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.RawFileDlg.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.TiffFileDlg.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.ViewDlg.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.AdminForm.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.ClothDetailForm.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.DetectForm.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.Form1.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MessageBoxForm.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.ParForm.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.PasswordForm.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.Properties.Resources.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.ParamSettingForm.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.SQLForm.resources
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csproj.GenerateResource.Cache
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.TrustInfo.xml
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.manifest
+E:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.application
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.config
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\Interop.XJaiLT400CLLib.dll
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\AxInterop.XJaiLT400CLLib.dll
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csproj.ResolveComReference.cache
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.manifest
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.application
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\AxInterop.XJaiLT400CLLib.dll
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\DALSA.SaperaLT.SapClassBasic.dll
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\halcondotnet.dll
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\MySql.Data.dll
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\Interop.XJaiLT400CLLib.dll
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\Google.Protobuf.dll
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\halcondotnet.xml
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\bin\Release\MySql.Data.xml
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csprojResolveAssemblyReference.cache
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AbortDlg.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AboutBox.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AcqConfigDlg.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.AviFileDlg.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.BufferDlg.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.ImageBox.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.JpegFileDlg.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.RawFileDlg.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.TiffFileDlg.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.SapClassGui.ViewDlg.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.AdminForm.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.ClothDetailForm.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.DetectForm.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.Form1.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MessageBoxForm.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.MultiBoardSyncGrabDemoDlg.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.ParForm.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.PasswordForm.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.Properties.Resources.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.ParamSettingForm.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\DALSA.SaperaLT.Demos.NET.CSharp.MultiBoardSyncGrabDemo.SQLForm.resources
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csproj.GenerateResource.Cache
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.TrustInfo.xml
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.manifest
+H:\1DM\东蒙201905151多线程双回调\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.application
+H:\1DM\东蒙201905162\东蒙20190508多线程双回调\bin\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe.config
+H:\1DM\东蒙201905162\东蒙20190508多线程双回调\obj\Release\Interop.XJaiLT400CLLib.dll
+H:\1DM\东蒙201905162\东蒙20190508多线程双回调\obj\Release\AxInterop.XJaiLT400CLLib.dll
+H:\1DM\东蒙201905162\东蒙20190508多线程双回调\obj\Release\MultiBoardSyncGrabDemo_2015.csproj.ResolveComReference.cache
+H:\1DM\东蒙201905162\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.exe
+H:\1DM\东蒙201905162\东蒙20190508多线程双回调\obj\Release\SapNETCSharpMultiBoardSyncGrabDemo.pdb
